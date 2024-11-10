@@ -38,3 +38,6 @@ In this project, I developed a plant disease prediction model using a Convolutio
 - Created an interactive interface for model inference using Streamlit, making the project accessible for real-world applications.
 - Organized the project files and documentation for ease of use and future enhancement.
 
+
+
+
